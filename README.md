@@ -3,10 +3,15 @@
 
 Una suite interactiva y modular en Python que reúne **15 utilidades prácticas y avanzadas** de la interfaz gráfica de usuario nativa de Python (**Tkinter** y **ttk**). Está diseñada tanto como panel de demostración en vivo (dashboard) como un catálogo de referencia para copiar y pegar componentes directamente en tus propios proyectos.
 
+<p align="center">
+  <img src="./assets/dashboard_preview.png" alt="Vista Previa del Centro de Utilidades Tkinter" width="700">
+</p>
+
 ---
 
 ## 📋 Tabla de Contenidos
 
+- [Vista Previa](#-vista-previa)
 - [Características Principales](#-características-principales)
 - [Requisitos](#-requisitos)
 - [Instalación y Ejecución](#-instalación-y-ejecución)
